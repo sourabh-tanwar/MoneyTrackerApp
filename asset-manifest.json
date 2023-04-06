@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sourabh-tanwar/MoneyTrackerApp/static/css/main.703a5288.css",
+    "main.js": "/sourabh-tanwar/MoneyTrackerApp/static/js/main.6617dbb7.js",
+    "index.html": "/sourabh-tanwar/MoneyTrackerApp/index.html",
+    "main.703a5288.css.map": "/sourabh-tanwar/MoneyTrackerApp/static/css/main.703a5288.css.map",
+    "main.6617dbb7.js.map": "/sourabh-tanwar/MoneyTrackerApp/static/js/main.6617dbb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.703a5288.css",
+    "static/js/main.6617dbb7.js"
+  ]
+}
